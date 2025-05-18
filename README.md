@@ -1,5 +1,4 @@
 # Micro-IT-Internship
-Weather App
 
 Weather App 🌞☁️
 This is a simple Weather App built with Streamlit. It shows the current weather for any city you search for. The app has a nice background with clouds and a sun, and all text is in black for easy reading.
@@ -14,12 +13,18 @@ Beautiful background with clouds and sun.
 Try the App
 Click the button below to use the app:https://weather-app-2706.streamlit.app/
 
+
+  
+    Open Weather App
+  
+
+
 How to Run Locally
 If you want to run this app on your computer, follow these steps:
 
 Clone the Repository:
 
-Open your terminal and run:git clone https://github.com/<YOUR_GITHUB_USERNAME>/weather_app_streamlit.git
+Open your terminal and run:git clone https://github.com/snehithamuddam/weather_app_streamlit.git
 
 
 Go to the project folder:cd weather_app_streamlit
@@ -68,4 +73,3 @@ The search history resets when the app restarts on Streamlit Community Cloud bec
 Make sure to keep your API key safe and don’t upload config.py to GitHub.
 
 Enjoy using the Weather App! 🌞
-
