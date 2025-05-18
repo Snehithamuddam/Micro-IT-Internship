@@ -11,11 +11,9 @@ Keeps a history of your recent searches (up to 5).
 Beautiful background with clouds and sun.
 
 Try the App
-Click the button below to use the app:https://weather-app-2706.streamlit.app/
-
-
+Click the button below to use the app:
   
-    Open Weather App
+  https://weather-app-2706.streamlit.app/
   
 
 
